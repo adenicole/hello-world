@@ -1,2 +1,2 @@
 # hello-world
-integration of Doppler and CircleCI
+Integration of Doppler and CircleCI
